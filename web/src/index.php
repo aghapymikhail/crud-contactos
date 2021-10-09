@@ -38,7 +38,7 @@
 ?>
 <div class="login_register-page">
   <div class="form">
-    <div class='login_register-form-text'><h2>Bienvenido a la administración del sistema</h2></div>
+    <div class='login_register-form-text'><h2>Hola a la administración del sistema</h2></div>
     <form class="login-form" action="includes/login.inc.php" method="post">
       <input type="text" name="login-email" maxlength="100" placeholder="Usuario/Email*" required/>
       <input type="password" name="login-pwd" maxlength="100" placeholder="Contraseña" required/>
