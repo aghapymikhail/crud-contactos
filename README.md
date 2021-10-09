@@ -2,7 +2,7 @@
 
 App ver en "localhost:8080"
 
-Usuario: User
+Usuario:User
 
 Contraseña: P4ssw0rd
 
